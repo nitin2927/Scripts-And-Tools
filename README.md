@@ -3,14 +3,13 @@
 
 This repository contains all the useful and small pieces of code that can be used for automation, cryptography and various pentesting functions
 
+# Description
 
+### Strong Password Creator
 
-## Strong Password Creator
+#### A simple and useful script to generate a strong password.
 
-### A simple and useful script to generate a strong password.
-
-
-#### Basic Usage
+ Basic Usage
 ```bash
   python3 passgen.py [length of password]
 ```
